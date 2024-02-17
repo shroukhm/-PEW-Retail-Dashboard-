@@ -14,4 +14,3 @@ PEW Retail Inc. Ltd. has subsidiaries across the globe, and they are selling pro
 
 ![2](https://github.com/shroukhm/-PEW-Retail-Dashboard-/assets/134003439/b0c5b710-52d6-4706-b3ee-841eeaa6ce00)
 
-# -PEW-Retail-Dashboard-
